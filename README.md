@@ -14,7 +14,7 @@ This repository consists of my works at practicing machine learning with TensorF
 - [Celsius to Fahrenheit](./Celsius_to_Fahrenheit.ipynb)
 - [Classifying Images of Clothing](./Classifying_Images_of_Clothing.ipynb)
 - [Predicting Fuel Efficiency](./Predicting_fuel_efficiency.ipynb)
-- *more to come*
+- *work in progress*
 
 ## Contributing
 Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
