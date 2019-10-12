@@ -1,5 +1,5 @@
-# TensorFlow
-This repository consists of my works at practicing machine learning with TensorFlow.
+# Machine Learning
+This repository consists of my works at practicing machine learning with the main frameworks (TensorFlow, Keras, scikit-learn etc.) and languages (Python and R).
 
 ## Contents
 - [Introduction](#Introduction)
@@ -8,7 +8,7 @@ This repository consists of my works at practicing machine learning with TensorF
 - [License](#License)
 
 ## Introduction
-> [TensorFlow](https://www.tensorflow.org/) is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+
 
 ## Files
 - [Celsius to Fahrenheit](./Celsius_to_Fahrenheit.ipynb)
