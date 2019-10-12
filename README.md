@@ -1,5 +1,5 @@
 # Machine Learning
-This repository consists of my works at practicing machine learning with the main frameworks (TensorFlow, Keras, scikit-learn etc.) and languages (Python and R).
+This repository consists of my works at practicing machine learning with major frameworks (TensorFlow, Keras, scikit-learn etc.) and languages (Python and R).
 
 ## Contents
 - [Introduction](#Introduction)
