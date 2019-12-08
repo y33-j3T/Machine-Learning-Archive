@@ -11,10 +11,10 @@ This repository consists of my works at practicing machine learning with major f
 
 
 ## Files
-- [Celsius to Fahrenheit](./Celsius_to_Fahrenheit.ipynb)
-- [Classifying Images of Clothing](./Classifying_Images_of_Clothing.ipynb)
-- [Predicting Fuel Efficiency](./Predicting_fuel_efficiency.ipynb)
-- *work in progress*
+- [Celsius to Fahrenheit](./celsius-to-fahrenheit.ipynb)
+- [Classifying Images of Clothing](./classifying-images-of-clothing.ipynb)
+- [Predicting Fuel Efficiency](./predicting-fuel-efficiency.ipynb)
+- [Classifying Movie Reviews](./classifying-movie-reviews)
 - 
 -
 -
