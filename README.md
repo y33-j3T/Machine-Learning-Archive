@@ -1,5 +1,5 @@
 # Machine Learning
-This repository consists of my works at practicing machine learning with major frameworks (TensorFlow, Keras, scikit-learn etc.) and languages (Python and R).
+This repository consists of my works at practicing machine learning.
 
 ## Contents
 - [Introduction](#Introduction)
@@ -14,31 +14,10 @@ This repository consists of my works at practicing machine learning with major f
 - [Celsius to Fahrenheit](./celsius-to-fahrenheit.ipynb)
 - [Classifying Images of Clothing](./classifying-images-of-clothing.ipynb)
 - [Predicting Fuel Efficiency](./predicting-fuel-efficiency.ipynb)
-- [Classifying Movie Reviews](./classifying-movie-reviews)
-- 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- [Classifying Movie Reviews](./classifying-movie-reviews.ipynb)
 
 ## Contributing
 Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
-TensorFlow is released under the [MIT License](./LICENSE).
+Machine Learning is released under the [MIT License](./LICENSE).
