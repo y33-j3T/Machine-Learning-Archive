@@ -8,7 +8,7 @@ My works at practicing machine learning.
 - [License](#License)
 
 ## Introduction
-These are beginner level works of machine learning referenced from various resources. You'll find basic classification and regression algorithms implemented in pursuit of greater knowledge. Libraries used are mainly, but not limited to, Tensorflow, Keras, scikit-learn etc..
+These are beginner level works of machine learning referenced from various resources. You'll find basic classification and regression algorithms implemented in pursuit of greater knowledge. Libraries used are mainly, but not limited to, Tensorflow, Keras and scikit-learn.
 
 ## Files
 - [Celsius to Fahrenheit](./celsius-to-fahrenheit.ipynb)
