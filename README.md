@@ -15,8 +15,8 @@ These are beginner level works of machine learning referenced from various resou
 - [Classifying Images of Clothing](./classifying-images-of-clothing.ipynb)
 - [Predicting Fuel Efficiency](./predicting-fuel-efficiency.ipynb)
 - [Classifying Movie Reviews](./classifying-movie-reviews.ipynb)
-- [Classifying Newswires](./classifying-newswires)
-- [Predicting House Prices](./predicting-house-prices)
+- [Classifying Newswires](./classifying-newswires.ipynb)
+- [Predicting House Prices](./predicting-house-prices.ipynb)
 
 ## Contributing
 Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
